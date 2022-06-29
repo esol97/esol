@@ -1,0 +1,48 @@
+header{
+	background: #202124;
+	min-height: 100px;
+	margin: 10px;
+}
+main{
+	background: #202124;
+	min-height: 500px;
+}
+footer.one{
+	background-color: #171717;
+	color: #999da2;
+	bottom: 50px;
+	width: 100%;
+	position: fixed;
+	min-height: 50px;
+}
+footer.two{
+	background: #171717;
+	min-height: 50px;
+	width: 100%;
+	bottom: 0px;
+	position: fixed;
+	color: #999da2;
+}
+input.searchbox{
+	align: center;
+}
+img.google{
+	margin: 0px;
+	vertical-align: 100px;
+	width: 300px;
+}
+ul.one{
+	color: #ffffff;
+}
+span.one{
+	color: #ffffff;
+}
+span.two{
+	color: #ffffff;
+	float: "right";
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #171717;
+}
